@@ -1,0 +1,48 @@
+body{
+    font-family: 'Itim', cursive;
+font-family: 'Playfair Display', serif;
+}
+.welcome{
+    text-align: center;
+    height: 100px;
+    padding-top: 100px;
+    font-size: 50px;
+    color: rgb(237, 47, 148);
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.tityle{
+    font-size: 25px;
+    border-left: 5px solid rgb(239, 40, 40);
+    border-radius: 3px;
+    padding-left: 10px;
+}
+.frist{
+    width: 50%;
+    margin-left: 150px;
+}
+.frist img{
+    height: 750px;
+    width: 620px;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(244, 100, 100), rgb(243, 153, 36));
+    color: #ffff;
+    padding: 5px 30px;
+    border-radius: 5px;
+    font-weight: 700px;
+}
+.name-color{
+    color: rgb(8, 175, 235);
+}
+.self{
+    width: 50%;
+}
+.self img{
+    height: 550px;
+    width: 520px;
+    margin-left: 150px;
+}
