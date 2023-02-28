@@ -46,3 +46,37 @@ section{
     width: 520px;
     margin-left: 150px;
 }
+.about{
+    width: 50%;
+    margin-left: 350px;
+    box-shadow: 10px 10px 30px gray;
+    height: 250px;
+    width: 350px;
+    padding-left: 30px;
+    border-radius: 8px;
+}
+
+.about-me{
+    font-size: 30px;
+    color: rgb(225, 59, 203);
+}
+.experience{
+    box-shadow: 10px 10px 30px gray;
+    width: 50%;
+    height: 250px;
+    width: 350px;
+    margin-left: 350px;
+    padding-left: 30px;
+    border-radius: 8px;
+}
+h1{
+    color: rgb(230, 28, 206);
+}
+.Footer{
+    background-color: black;
+    text-align: center;
+
+}
+Footer{
+    color: #ffff;
+}
