@@ -54,11 +54,13 @@ section{
     width: 350px;
     padding-left: 30px;
     border-radius: 8px;
+    background-color: rgb(224, 244, 238);
 }
 
 .about-me{
     font-size: 30px;
     color: rgb(225, 59, 203);
+
 }
 .experience{
     box-shadow: 10px 10px 30px gray;
@@ -68,7 +70,42 @@ section{
     margin-left: 350px;
     padding-left: 30px;
     border-radius: 8px;
+    background-color: rgb(231, 244, 224);
 }
+.html{
+    background-image: linear-gradient(rgb(51, 238, 226), rgb(28, 138, 217) );
+    padding: 0px 35px;
+    font-size: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.html:hover{
+    font-size:15px ;
+    box-shadow: 5px 5px 20px gray;
+}
+.css{
+    background-image: linear-gradient(rgb(51, 238, 226), rgb(28, 138, 217) );
+    padding: 0px 35px;
+    font-size: 10px;
+    border-radius: 5px;
+    margin-left: 27px;
+}
+.css:hover{
+    font-size:15px ;
+    box-shadow: 5px 5px 20px gray;
+}
+.github{
+    background-image: linear-gradient(rgb(51, 238, 226), rgb(28, 138, 217) );
+    padding: 0px 25px;
+    font-size: 10px;
+    border-radius: 5px;
+    margin-left: 6px;
+}
+.github:hover{
+    font-size:15px ;
+    box-shadow: 5px 5px 20px gray;
+}
+
 h1{
     color: rgb(230, 28, 206);
 }
