@@ -17,5 +17,23 @@ section{
     height: 750px;
     width: 620px;
 }
+.self{
+    width: 100%;
+}
+.self img{
+    height: 550px;
+    width: 520px;
+    margin-left: 50px;
+}
+.about{
+    width: 100%;
+    margin-left: 350px;
+    box-shadow: 10px 10px 30px gray;
+    height: 250px;
+    width: 350px;
+    padding-left: 30px;
+    border-radius: 8px;
+}
+
   
 }
